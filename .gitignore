@@ -1,5 +1,10 @@
 visitame-cliente/target
 visitame-web/target
+visitame-web-ear/target
+visitame-cliente/.settings
+visitame-web/.settings
+visitame-web-ear/.settings
 .project
 target/
 /.project
+.settings
